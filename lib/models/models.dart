@@ -1,0 +1,1 @@
+export 'package:getx_boilerplate/models/language/language_options_model.dart';
